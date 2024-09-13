@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="logo.png" className="App-logo" alt="logo" />
         <p>
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
@@ -14,7 +14,7 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://terminologyii.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
