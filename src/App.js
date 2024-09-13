@@ -16,8 +16,8 @@ function App() {
             className="App-link"
             href="https://terminologyii.netlify.app"
             target="_blank"
-            rel="noopener noreferrer"
-          >
+            rel="noopener noreferrer">
+          
             TERMINOLOGY II
           </a>
         </p>
