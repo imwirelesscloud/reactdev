@@ -16,7 +16,7 @@
   -webkit-transition: -webkit-transform 1s;
 }
 
-.rotate_01:hover {
+.Octocat:hover {
   -webkit-transform: rotate(360deg) translateZ(0);
   border: none;
   border-radius: 90%;
